@@ -1,0 +1,23 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": "La vita è come andare in bicicletta. Per mantenere l’equilibrio devi muoverti. (Albert Einstein)"
+  },
+  "Services": [
+    {
+      "icon": "fa fa-bicycle",
+      "name": "Noleggio E-Bike",
+      "text": "Abbiamo una vasta gamma di E-Bike,dalle Full alle Front alle Bic da DH. Inoltre disponiamo di bici per ragazzi dai 10 anni e tutti gli accessori per portare con voi i più piccolini."
+    },
+    {
+      "icon": "fa fa-bus",
+      "name": "Noleggio Shuttle Bike",
+      "text": "Il nostro Bike Park ha percorsi di differenti livelli: piste blu e rosse. Prova i nostri trails prenotando il nostro servizio di risalita."
+    },
+    {
+      "icon": "fa fa-pencil-square-o",
+      "name": "Tour",
+      "text": "I nostri tour sono adatti a tutti dai più timorosi agli appassionati di enduro. Dalle cime della Maiella alla valle,potrete osservare paesaggi e territori ricchi di storia e tradizione."
+    }
+  ]
+}
