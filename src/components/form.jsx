@@ -50,7 +50,7 @@ const FormComponent = () => {
         'template_plp53ek', // Sostituisci con il template_id per il riepilogo a te stesso
         {
           ...templateParams,
-          to_email: 'stefanoricci222@gmail.com' // Assicurati che questo sia il tuo indirizzo email
+          to_email: 'majellabikeadv@gmail.com' // Assicurati che questo sia il tuo indirizzo email
         },
         'iLUGmslbhOl3FGTrm' // Sostituisci con lo stesso user_id
       );
