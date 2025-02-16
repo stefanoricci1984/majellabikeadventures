@@ -64,7 +64,10 @@ const FormComponent = () => {
     }
   };
 
-  const today = new Date().toISOString().split('T')[0];
+  const tomorrow = new Date();
+tomorrow.setDate(tomorrow.getDate() + 1);
+const minDate = tomorrow.toISOString().split('T')[0];
+
 
   return (
     <div id="contact">
@@ -129,7 +132,7 @@ const FormComponent = () => {
                       name="selectedDate"
                       className="form-control"
                       required
-                      min={today}
+                      min={minDate}
                       value={selectedDate}
                       onChange={handleChange}
                     />
